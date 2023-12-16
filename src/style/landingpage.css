@@ -1,0 +1,49 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/image/BG BELAKANG.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3px;
+}
+
+.trending {
+    height: auto;
+    background: url("../assets/image/PAPER.jpg");
+    background-size: cover;
+}
+
+.filmImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.image {
+    height:500px;
+}
+
+.superhero {
+    height: auto;
+    background: url("../assets/image/SUPER HERO BG.jpg"); 
+    background-size: cover;
+}
+
+.romance {
+    height: auto;
+    background: url("../assets/image/PAPER.jpg");
+    background-size: cover;
+}
